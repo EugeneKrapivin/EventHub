@@ -1,0 +1,18 @@
+﻿-d:DEBUG
+-d:TRACE
+-d:DNX461
+-nowarn:CS1701
+-nowarn:CS1702
+-nowarn:CS1705
+-nostdlib
+-nologo
+-debug:full
+"C:\Users\Eugene\Documents\Visual Studio 2015\Projects\EventHub\src\Events.API\obj\Debug\dnx461\dotnet-compile.assemblyinfo.cs"
+-out:"C:\Users\Eugene\Documents\Visual Studio 2015\Projects\EventHub\src\Events.API\bin\Debug\dnx461\Events.API.exe"
+-r:"C:\Users\Eugene\.nuget\packages\MassTransit\3.2.4\lib\net45\MassTransit.dll"
+-r:"C:\Users\Eugene\.nuget\packages\MassTransit.RabbitMQ\3.2.4\lib\net45\MassTransit.RabbitMqTransport.dll"
+-r:"C:\Users\Eugene\.nuget\packages\Newtonsoft.Json\7.0.1\lib\net45\Newtonsoft.Json.dll"
+-r:"C:\Users\Eugene\.nuget\packages\RabbitMQ.Client\3.6.1\lib\net45\RabbitMQ.Client.dll"
+"C:\Users\Eugene\Documents\Visual Studio 2015\Projects\EventHub\src\Events.API\Startup.cs"
+"C:\Users\Eugene\Documents\Visual Studio 2015\Projects\EventHub\src\Events.API\Controllers\EventsController.cs"
+"C:\Users\Eugene\Documents\Visual Studio 2015\Projects\EventHub\src\Events.API\Models\Event.cs"
